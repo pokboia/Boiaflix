@@ -1,0 +1,22 @@
+body {
+    color: rgb(16 14 28 / 98%);
+    background: black;
+    margin: 0px;
+    font-size: 27px;
+    display: flex;
+  
+}
+
+header {
+    border-bottom: solid 2px rgb(101 99 99);
+    padding: 20px;
+    font-size: 35px;
+    color:hsl(180, 80%, 32%);
+
+}
+
+section {
+    background: rgb(18 49 77);
+    padding: 25px;
+    padding-top: 25px;
+}
